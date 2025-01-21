@@ -15,6 +15,11 @@ To provide actionable insights into the severity of the COVID-19 pandemic by ana
 
 The findings aim to support journalists in reporting on the global status of COVID-19 by delivering clear, data-backed insights on infection, mortality, and vaccination trends.
 
+**Data Visualization(Tableau)**
+
+Link to Dashboard displaying Covid Data insights:
+https://public.tableau.com/shared/3WFP56M72?:display_count=n&:origin=viz_share_link
+
 **Citing**
 
 Link to Dataset: https://ourworldindata.org/covid-deaths
